@@ -1,0 +1,101 @@
+body {
+    background-color: #efefef;
+    background-size: 100%;
+}
+
+div #yellow-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 700px;
+    width: 700px;
+    border-radius: 50%;
+}
+
+#human {
+    position: absolute;
+    top: 57.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 800px;
+    width: 400px;
+}
+
+#mnmlst {
+    font-size: 70px;
+    font-family: 'Passion One', cursive;
+    position: absolute;
+    top: 1px;
+    left: 3%;
+}
+
+#left-circle {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+
+}
+
+#zero-one {
+
+    position: absolute;
+    bottom: 1px;
+    left: 3%;
+    font-size: 50px;
+    font-family: 'Passion One', cursive;
+
+}
+
+#black-line {
+    width: 200px;
+}
+
+#minimalist {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Passion One', cursive;
+    font-size: 180px;
+    color: white;
+}
+
+#text-head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    position: absolute;
+    top: 5%;
+    left: 38%;
+}
+
+#adres{
+    font-family: 'Passion One', cursive;
+    font-size: 30px;
+    position: absolute;
+    top: 5%;
+    right: 3%;
+}
+
+#circle-right {
+
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 20%;
+    right: 10%;
+}
+
+#website {
+
+    font-family: 'Passion One', cursive;
+    font-size: 30px;
+    position: absolute;
+    bottom: 2%;
+    right: 3%;
+}
